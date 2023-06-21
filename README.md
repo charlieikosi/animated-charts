@@ -1,1 +1,1 @@
-# animated-charts
+# Animated Charts Using Vizzu
